@@ -57,7 +57,7 @@ Collect bonuses for extra power-ups.
 
 Survive as long as possible and set a new high score!
 
-![Game Screenshot](assets/images/game_image.png)
+![Game Screenshot](assets/images/game_image.PNG)
 
 📌 **Future Updates**
 
