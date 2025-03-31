@@ -1,8 +1,37 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-**Stellar War** 🚀
+#Stellar War 🚀
 
 A thrilling space battle game where you command a spaceship, collect bonuses, and fight for survival in an endless cosmic war!
+
+##💰 Monetization & Open Source – Support the Mission!
+
+**🌟 Help Shape the Future of Stellar War!**
+
+**🚀 Stellar War** is more than just a game—it's a community-driven project built with passion. As an open-source game, anyone can contribute, improve, and enjoy it freely. But to keep this project thriving, we need your support!
+
+**How You Can Help**
+
+**💖 Become a GitHub Sponsor** – Your donations help fund development, new features, and server costs.
+
+**🎯 In-Game Rewards & Supporter Badges** – Get exclusive in-game bonuses or a special shoutout in the game credits!
+
+**🛍️ Marketplace Releases** – If the game gains traction, premium add-ons or skins could help sustain development.
+
+**📢 Spread the Word!** – Even if you can't donate, sharing the game with others helps a lot!
+
+
+**Why Donate?**
+
+✅ Support an indie developer passionate about building great games.
+
+✅ Help add new levels, enemies, multiplayer mode, and more!
+
+✅ Keep the project free and open for everyone to enjoy.
+
+
+**Every contribution, no matter the size, fuels the future of Stellar War! 🚀✨**
+
 
 📜 **About the Game**
 
@@ -42,11 +71,8 @@ Collect bonuses for extra power-ups.
 Survive as long as possible and set a new high score!
 
 
-💰 **Monetization & Open Source**
-
-This game is open-source and also designed for monetization via GitHub Sponsors, in-game ads, and potential marketplace releases.
-
 📌 **Future Updates**
+
 Multiplayer mode.
 
 More enemy types and boss fights.
