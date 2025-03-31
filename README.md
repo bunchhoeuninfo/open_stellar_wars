@@ -1,4 +1,6 @@
-****Stellar War**** 🚀
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
+**Stellar War** 🚀
 
 A thrilling space battle game where you command a spaceship, collect bonuses, and fight for survival in an endless cosmic war!
 

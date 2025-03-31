@@ -1,3 +1,9 @@
+// open_stellar_wars
+// Copyright (c) 2025 Bunchhoeun CHHIM
+// Licensed under the MIT License. See LICENSE file for details.
+
+
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:open_stellar_wars/core/utils/log_util.dart';
