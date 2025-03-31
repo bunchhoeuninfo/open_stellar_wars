@@ -12,7 +12,7 @@ A thrilling space battle game where you command a spaceship, collect bonuses, an
 **🛍️ Marketplace Releases** – If the game gains traction, premium add-ons or skins could help sustain development.<br>
 **📢 Spread the Word!** – Even if you can't donate, sharing the game with others helps a lot!<br><br>
 **Why Donate?**<br>
-✅ Support an indie developer passionate about building great games.<br>
+✅ Support an indie developer (independent developer) passionate about building great games.<br>
 ✅ Help add new levels, enemies, multiplayer mode, and more!<br>
 ✅ Keep the project free and open for everyone to enjoy.<br><br>
 If you love **Stellar War**, consider supporting the project! 🚀  <br>
