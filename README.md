@@ -1,6 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-**Stellar War** 🚀
+<h2>Stellar War 🚀</h2>
 
 A thrilling space battle game where you command a spaceship, collect bonuses, and fight for survival in an endless cosmic war!<br><br>
 **💰 Monetization & Open Source – Support the Mission!**<br><br>
@@ -19,58 +19,32 @@ If you love **Stellar War**, consider supporting the project! 🚀  <br>
 [💙 Sponsor on GitHub](https://github.com/sponsors/bunchhoeuninfo)  <br>
 
 **Every contribution, no matter the size, fuels the future of Stellar War! 🚀✨**<br><br>
+📜 **About the Game**<br>
+Stellar War is an action-packed space shooter built with Flutter and Flame Engine. Players navigate through an infinite galaxy, dodging enemy fire, collecting power-ups, and racking up high scores.<br><br>
+🎮 **Features**<br>
+🚀 Engaging Space Combat – Battle against waves of enemies in a fast-paced environment.<br>
+⭐ Bonus Objects – Collect power-ups, shields, and special weapons to boost your gameplay.<br>
+📊 Scoreboard System – Compete with yourself or others by achieving the highest score.<br>
+🎨 Stunning Graphics – Retro-style space visuals with smooth animations.<br>
+🎶 Immersive Sound Effects – Feel the intensity of space battles with dynamic audio.<br><br>
+🛠️ **Tech Stack**<br>
+Flutter – For cross-platform game development.<br>
+Flame Engine – For 2D game mechanics and physics.<br>
+Dart – For game logic and performance optimization.<br><br>
+🚀 **How to Play**<br>
+Tilt or touch to control your spaceship.<br>
+Avoid enemy attacks and obstacles.<br>
+Shoot enemies to score points.<br>
+Collect bonuses for extra power-ups.<br>
+Survive as long as possible and set a new high score!<br><br>
+**Gameplay Screenshot**<br>
+![Game Screenshot](assets/images/game_image.PNG)<br><br>
+📌 **Future Updates**<br>
+Multiplayer mode.<br>
+More enemy types and boss fights.<br>
+New space environments and weapons.<br><br>
+📧 **Contact & Contributions**<br>
+Feel free to contribute to the project! If you have suggestions, open an issue or submit a pull request.<br><br>
 
-📜 **About the Game**
-
-Stellar War is an action-packed space shooter built with Flutter and Flame Engine. Players navigate through an infinite galaxy, dodging enemy fire, collecting power-ups, and racking up high scores.
-
-🎮 **Features**
-
-🚀 Engaging Space Combat – Battle against waves of enemies in a fast-paced environment.
-
-⭐ Bonus Objects – Collect power-ups, shields, and special weapons to boost your gameplay.
-
-📊 Scoreboard System – Compete with yourself or others by achieving the highest score.
-
-🎨 Stunning Graphics – Retro-style space visuals with smooth animations.
-
-🎶 Immersive Sound Effects – Feel the intensity of space battles with dynamic audio.
-
-
-🛠️ **Tech Stack**
-
-Flutter – For cross-platform game development.
-
-Flame Engine – For 2D game mechanics and physics.
-
-Dart – For game logic and performance optimization.
-
-🚀 **How to Play**
-
-Tilt or touch to control your spaceship.
-
-Avoid enemy attacks and obstacles.
-
-Shoot enemies to score points.
-
-Collect bonuses for extra power-ups.
-
-Survive as long as possible and set a new high score!
-
-![Game Screenshot](assets/images/game_image.PNG)
-
-📌 **Future Updates**
-
-Multiplayer mode.
-
-More enemy types and boss fights.
-
-New space environments and weapons.
-
-📧 **Contact & Contributions**
-
-Feel free to contribute to the project! If you have suggestions, open an issue or submit a pull request.
-
-👨‍💻 Developed by Bunchhoeun CHHIM
-
-📩 Reach me at: bunchhoeun.chhim@gmail.com
+👨‍💻 Developed by Bunchhoeun CHHIM<br>
+📩 Reach me at: bunchhoeun.chhim@gmail.com<br>
