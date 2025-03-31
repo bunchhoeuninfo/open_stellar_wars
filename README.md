@@ -16,7 +16,7 @@ A thrilling space battle game where you command a spaceship, collect bonuses, an
 ✅ Help add new levels, enemies, multiplayer mode, and more!<br>
 ✅ Keep the project free and open for everyone to enjoy.<br><br>
 If you love **Stellar War**, consider supporting the project! 🚀  <br>
-[💙 Sponsor on GitHub](https://github.com/sponsors/bunchhoeuninfo) |  <br>
+[💙 Sponsor on GitHub](https://github.com/sponsors/bunchhoeuninfo)  <br>
 
 **Every contribution, no matter the size, fuels the future of Stellar War! 🚀✨**<br><br>
 
