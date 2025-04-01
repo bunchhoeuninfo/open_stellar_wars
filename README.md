@@ -19,7 +19,7 @@ If you love **Stellar War**, consider supporting the project! 🚀 [💙 Sponsor
 Enjoying **Stellar War**? Support my work with a coffee!
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://buymeacoffee.com/bunchhoeunn)<br><br>
 
-**Every contribution, no matter the size, fuels the future of Stellar War! 🚀✨**<br><br>
+<h3>Every contribution, no matter the size, fuels the future of Stellar War! 🚀✨</h3><br><br>
 📜 **About the Game**<br>
 Stellar War is an action-packed space shooter built with Flutter and Flame Engine. Players navigate through an infinite galaxy, dodging enemy fire, collecting power-ups, and racking up high scores.<br><br>
 🎮 **Features**<br>
