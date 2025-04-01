@@ -19,32 +19,32 @@ If you love **Stellar War**, consider supporting the project! 🚀 [💙 Sponsor
 Enjoying **Stellar War**? Support my work with a coffee!
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://buymeacoffee.com/bunchhoeunn)<br><br>
 
-<h3>Every contribution, no matter the size, fuels the future of Stellar War! 🚀✨</h3><br><br>
-📜 **About the Game**<br>
+<h3>Every contribution, no matter the size, fuels the future of Stellar War! 🚀✨</h3><br><be>
+<h4>📜 About the Game</h4>
 Stellar War is an action-packed space shooter built with Flutter and Flame Engine. Players navigate through an infinite galaxy, dodging enemy fire, collecting power-ups, and racking up high scores.<br><br>
-🎮 **Features**<br>
+<h4>🎮 Features</h4>
 🚀 Engaging Space Combat – Battle against waves of enemies in a fast-paced environment.<br>
 ⭐ Bonus Objects – Collect power-ups, shields, and special weapons to boost your gameplay.<br>
 📊 Scoreboard System – Compete with yourself or others by achieving the highest score.<br>
 🎨 Stunning Graphics – Retro-style space visuals with smooth animations.<br>
-🎶 Immersive Sound Effects – Feel the intensity of space battles with dynamic audio.<br><br>
-🛠️ **Tech Stack**<br>
+🎶 Immersive Sound Effects – Feel the intensity of space battles with dynamic audio.<br><be>
+<h4>🛠️ Tech Stack</h4>
 Flutter – For cross-platform game development.<br>
 Flame Engine – For 2D game mechanics and physics.<br>
 Dart – For game logic and performance optimization.<br><br>
-🚀 **How to Play**<br>
+<h4>🚀 How to Play</h4>
 Tilt or touch to control your spaceship.<br>
 Avoid enemy attacks and obstacles.<br>
 Shoot enemies to score points.<br>
 Collect bonuses for extra power-ups.<br>
-Survive as long as possible and set a new high score!<br><br>
-**Gameplay Screenshot**<br>
+Survive as long as possible and set a new high score!<br><be>
+<h4>Gameplay Screenshot</h4><br>
 ![Game Screenshot](assets/images/game_image.PNG)<br><br>
-📌 **Future Updates**<br>
+<h4>📌 Future Updates</h4><br>
 Multiplayer mode.<br>
 More enemy types and boss fights.<br>
-New space environments and weapons.<br><br>
-📧 **Contact & Contributions**<br>
+New space environments and weapons.<br><be>
+<h4>📧 Contact & Contributions</h4><br>
 Feel free to contribute to the project! If you have suggestions, open an issue or submit a pull request.<br><br>
 
 👨‍💻 Developed by Bunchhoeun CHHIM<br>
