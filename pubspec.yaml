@@ -36,7 +36,6 @@ flutter:
     # image asset name JSON
     - assets/data/img_asset_names.json
     
-    - assets/images/player_1.png
     # coin images
     - assets/images/coin.jpg
     - assets/images/coins/coin_flip.jpg
